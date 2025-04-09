@@ -5,7 +5,6 @@ $vehicleManager = new VehicleManager('', '', '', '');
 $id = $_GET['id'] ?? null;
 
 if($id === null){
-    // print_r("HEllo");
     header("Location: ../index.php");
     exit;
 }
@@ -14,7 +13,6 @@ $vehicles = $vehicleManager->getVehicles();
 $vehicle = $vehicles[$id] ?? null;
 
 if(!$vehicle){
-    // print_r("HEllo");
     header("Location: ../index.php");
     exit;
 }

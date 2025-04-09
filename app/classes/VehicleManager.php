@@ -33,7 +33,6 @@ class VehicleManager extends VehicleBase implements VehicleActions {
        return $this->readFile();
     }
 
-    // Implement abstract method
     public function getDetails() {
         return [
             'name' => $this->name,
