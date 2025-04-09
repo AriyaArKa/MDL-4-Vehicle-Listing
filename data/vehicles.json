@@ -1,0 +1,32 @@
+[
+    {
+        "name": "R15 V3",
+        "type": "Bike",
+        "price": "7000",
+        "image": "https:\/\/www.financialexpress.com\/wp-content\/uploads\/2020\/08\/yamaha-r15-dark-knight.jpg"
+    },
+    {
+        "name": "Lamborginni",
+        "type": "Car",
+        "price": "930000",
+        "image": "https:\/\/robbreport.com\/wp-content\/uploads\/2013\/10\/p180ls96721isf10r114kj100d47q41.jpg?w=400"
+    },
+    {
+        "name": "Bugatti",
+        "type": "Car",
+        "price": "2000000",
+        "image": "https:\/\/mediadatabase.cdn.bugatti-newsroom.com\/d\/YZiKD3Ea\/"
+    },
+    {
+        "name": "BMW",
+        "type": "bike",
+        "price": "230000",
+        "image": "https:\/\/media.zigcdn.com\/media\/content\/2021\/Mar\/bmw_m1000rr.jpg?tr=w-1200"
+    },
+    {
+        "name": "BMW",
+        "type": "Cycle",
+        "price": "23000",
+        "image": "https://di-uploads-pod25.dealerinspire.com/bmwtoronto/uploads/2021/05/m-bike.jpg"
+    }
+]
